@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <birthday>2000-12-21</birthday>
+        <city>Москва</city>
+        <firstName>Игорь</firstName>
+        <lastName>Моисеев</lastName>
+        <postalCode>123456</postalCode>
+        <street>Какая-то улица</street>
+    </person>
+    <person>
+        <birthday>2000-01-21</birthday>
+        <city>Москва</city>
+        <firstName>Иван</firstName>
+        <lastName>Гамаз</lastName>
+        <postalCode>123456</postalCode>
+        <street>Какая-то улица</street>
+    </person>
+    <person>
+        <birthday>1988-04-21</birthday>
+        <city>Москва</city>
+        <firstName>Петр</firstName>
+        <lastName>Иванов</lastName>
+        <postalCode>123456</postalCode>
+        <street>Какая-то улица</street>
+    </person>
+    <person>
+        <birthday>1989-03-21</birthday>
+        <city>Москва</city>
+        <firstName>Сантехник</firstName>
+        <lastName>Педрович</lastName>
+        <postalCode>123456</postalCode>
+        <street>Какая-то улица</street>
+    </person>
+    <person>
+        <birthday>1989-04-21</birthday>
+        <city>Москва</city>
+        <firstName>Максим</firstName>
+        <lastName>Унылый</lastName>
+        <postalCode>123456</postalCode>
+        <street>Какая-то улица</street>
+    </person>
+    <person>
+        <birthday>1987-06-21</birthday>
+        <city>Москва</city>
+        <firstName>Светлана</firstName>
+        <lastName>Максимовна</lastName>
+        <postalCode>123456</postalCode>
+        <street>Какая-то улица</street>
+    </person>
+</persons>
